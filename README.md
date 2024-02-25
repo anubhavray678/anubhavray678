@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/anubhavray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhavray" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anubhavray678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anubhavray678" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@anubhavray678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anubhavray678" height="30" width="40" /></a>
-<a href="/https://study.justskills.in/read" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://study.justskills.in/read" height="30" width="40" /></a>
+<a href="https://study.justskills.in/read" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://study.justskills.in/read" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
