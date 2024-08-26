@@ -6,10 +6,10 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Nripesh.<br>
-        Founder & CEO @CrossGL.<br>
+        I'm Anubhav<br>
+        SW.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/nripeshn/">
+    <a href="https://www.linkedin.com/in/anubhavray/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:nripesh14@gmail.com">
