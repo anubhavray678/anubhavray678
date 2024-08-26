@@ -6,7 +6,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Anubhav<br>
+        I'm Anubhav Ray<br>
         SW.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/anubhavray/">
@@ -36,25 +36,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/nripeshn)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/nripeshn)
 
-<details>
-<p align="center">
-  <a href="https://github.com/anubhavray678">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nripeshn&theme=transparent" />
-  </a>
-  <a href="https://github.com/anubhavray678">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nripeshn&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/anubhavray678">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nripeshn&theme=transparent" />
-  </a>
-</p>
-</details>
 
-<p align="center">
-  <a href="https://github.com/anubhavray678">
-    <img src="https://komarev.com/ghpvc/?username=nripeshn&color=blue&style=flat)" />
-  </a>
-</p>
 <!-- my old template -->
 <h1 align="center">Hi 👋, I'm Anubhav Kumar Ray</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
