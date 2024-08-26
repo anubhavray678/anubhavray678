@@ -62,9 +62,7 @@
 ### CODING
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/anubhavray678)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anubhavray678)
-<!-- my old template -->
-<!-- <h1 align="center">Hi 👋, I'm Anubhav Kumar Ray</h1> -->
-<!-- <h3 align="center">A passionate Full stack developer from India</h3> -->
+
 <!-- <img align="rignt" alt"Coding" width="100%"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
@@ -84,8 +82,7 @@
 
 ### Blogs posts
 <a href="https://study.justskills.in/read" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://study.justskills.in/read" height="30" width="40" /></a>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
