@@ -19,18 +19,18 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nripeshn)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/nripeshn)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/nripeshn)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/anubhavray678)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/anubhavray678)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/anubhavray678)
 
 
 ### Technologies & Frameworks
 
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/nripeshn)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/nripeshn)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/anubhavray678)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/anubhavray678)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![Bootstrap](https://getbootstrap.com)
+[![Bootstrap](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)](https://getbootstrap.com)
 
 ### OS
 
@@ -56,11 +56,7 @@
 
 - 📝 I regularly write articles on [https://study.justskills.in/read](https://study.justskills.in/read)
 
-- 💬 Ask me about **react, next, react native, mongoDb, node, express**
-
 - 📫 How to reach me **anubhavray678@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1OPyEjnlXQlpHGSwGBXXBc-xzWOIlZx_0JLPYrX3QnSM/edit?usp=sharing](https://docs.google.com/document/d/1OPyEjnlXQlpHGSwGBXXBc-xzWOIlZx_0JLPYrX3QnSM/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
