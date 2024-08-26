@@ -41,7 +41,7 @@
 <!-- my old template -->
 <!-- <h1 align="center">Hi 👋, I'm Anubhav Kumar Ray</h1> -->
 <!-- <h3 align="center">A passionate Full stack developer from India</h3> -->
-<img align="rignt" alt"Coding" width="100%"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="rignt" alt"Coding" width="100%"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavray678&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavray678" /> </p>
