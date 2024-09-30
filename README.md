@@ -74,9 +74,7 @@
 
 - 🔭 I’m currently working on [Justskills](https://justskills.in/)
 
-- 👨‍💻 All of my projects are available at [https://anubhavray.vercel.app/](https://anubhavray.vercel.app/)
-
-- 📝 I regularly write articles on [https://justskills.in/read](https://study.justskills.in/read)
+- 📝 I regularly write articles on [https://justskills.in/read](https://justskills.in/read)
 
 - 📫 How to reach me **anubhavray678@gmail.com**
 
